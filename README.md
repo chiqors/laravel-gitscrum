@@ -1,13 +1,6 @@
-[![Project on GitScrum](https://gitscrum.com/badges/project.svg)](https://gitscrum.com)
 [![Laravel 5.4](https://img.shields.io/badge/Laravel-5.4-brightgreen.svg?style=flat-square)](http://laravel.com)
 [![Total Downloads](https://poser.pugx.org/gitscrum-community/laravel-gitscrum/downloads)](https://packagist.org/packages/gitscrum-community/laravel-gitscrum)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/GitScrum-Community/laravel-gitscrum/blob/master/LICENSE.md)
-
-<p align="center">
-    <img src="https://site.gitscrum.com/wp-content/uploads/2017/09/logo_gitscrum.png" />
-    <br><br>
-    <img src="https://site.gitscrum.com/wp-content/uploads/2018/09/comp-gitscrum.jpg" />
-</p>
 
 More than 6.600 business use GitScrum to manage their agile projects
 
