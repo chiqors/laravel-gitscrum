@@ -241,16 +241,6 @@ PROXY_PASS=
 
 <br>
 
-### Do you need help?
-
-Renato Marinho: [Facebook](https://www.facebook.com/renato.marinho) / [LinkedIn](https://pt.linkedin.com/in/renatomarinho13) / Skype: renatomarinho13
-
-
-## Contributing
-
-Contributions are always welcome! https://github.com/GitScrum-Community/laravel-gitscrum/graphs/contributors
-
-
 ## License
 
 Laravel GitScrum is licensed under the [MIT license](https://opensource.org/licenses/MIT).
