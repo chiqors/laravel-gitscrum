@@ -23,10 +23,6 @@ GitScrum’s agile approach to project management has proven itself to be a time
 |
 <b><a href="#screens">Screens</a></b>
 |
-<b><a href="#questions-and-issues">Questions and Issues</a></b>
-|
-<b><a href="#contributing">Contributing</a></b>
-|
 <b><a href="#license">License</a></b>
 </p>
 
@@ -43,9 +39,6 @@ GitScrum collaborates to overcome the objectives with implementation of manageme
 Laravel GitScrum is a **free application** developed specifically for agile teams to be more agile!. The aim is help the developer teams to use **Git** and **Scrum** on task management of the day-to-day.
 
 Available in English, Chinese, Russian, German, Arabic, Spanish, Portuguese, Italian, French, Indonesian, Serbian, Hungarian and Vietnamese.
-
-
-Laravel GitScrum in gitter.im : [https://gitter.im/laravel-gitscrum/Lobby](https://gitter.im/laravel-gitscrum/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 ### Features
 
@@ -81,15 +74,6 @@ The requirements to Laravel GitScrum application is:
 
 [**Use Docker** - Containers: php7, nginx and mysql57](https://github.com/renatomarinho/Docker-GitScrum)
 
-### Composer Package
-
-```
-$ composer create-project gitscrum-community-edition/laravel-gitscrum --stability=stable --keep-vcs
-$ cd laravel-gitscrum
-```
-**Important**: If you have not yet installed composer: [Installation - Linux / Unix / OSX](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
-
-
 ### Git Clone
 
 ```
@@ -98,7 +82,6 @@ $ cd laravel-gitscrum
 $ composer update
 $ composer run-script post-root-package-install
 ```
-
 
 ## Setup
 
