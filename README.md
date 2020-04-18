@@ -220,6 +220,8 @@ Laravel GitScrum is licensed under the [MIT license](https://opensource.org/lice
 
 #### Translate Team : [@orionlu0916](https://github.com/orionlu0916) , [@Bebbolus](https://github.com/Bebbolus) , [@dongm2ez](https://github.com/dongm2ez), [@rizalio](https://github.com/rizalio), [@ddmler](https://github.com/ddmler), [@Assada](https://github.com/Assada), [@edbizarro](https://github.com/edbizarro), [@ngabor84](https://github.com/ngabor84), [@MarwanMohamed](https://github.com/MarwanMohamed) and Manuel Ortega
 
+- [GitScrum](https://site.gitscrum.com)
+
 - [Laravel PHP Framework](https://github.com/laravel/laravel)
 
 - [Chart.js](https://github.com/chartjs/Chart.js)
