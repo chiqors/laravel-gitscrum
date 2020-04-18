@@ -13,11 +13,6 @@ When running a business or handling large amounts of data, our agile project man
 
 GitScrum’s agile approach to project management has proven itself to be a time and money saving strategy with the flexibility to keep up with rapid changes
 
-
-Site: <b>https://www.gitscrum.com</b>
-
-Product Hunt: <b>https://www.producthunt.com/posts/gitscrum</b>
-
 <hr>
 <p align="center">
 <b><a href="#overview">Overview</a></b>
@@ -36,12 +31,6 @@ Product Hunt: <b>https://www.producthunt.com/posts/gitscrum</b>
 </p>
 
 <hr>
-
-<p align="center"> GitScrum's goal is to "Transform your IT Team into Instant Rock Stars" !!!</p>
-<br/>
-<b>Facebook Group: https://www.facebook.com/groups/gitscrum/ </b>
-</p>
-
 
 <b>GitScrum wants to transform your IT team into instant Rock Stars</b>
 
@@ -132,8 +121,6 @@ Options: en | zh | zh_cn | ru | de | es | pt | it | id | fr | hu
 ```
 APP_LANG=en
 ```
-Can you help us translate a few phrases into different languages? See: https://github.com/GitScrum-Community/laravel-gitscrum/tree/feature/language-pack/resources/lang
-
 
 #### Database
 
